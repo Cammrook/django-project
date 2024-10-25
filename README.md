@@ -1,1 +1,3 @@
-This is the Django Tuorial course from https://docs.djangoproject.com/
+This is the Django Tutorial course from
+
+*https://docs.djangoproject.com/*
